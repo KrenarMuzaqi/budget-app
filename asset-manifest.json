@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KrenarMuzaqi.github.io/budget-app/static/css/main.fddbdccc.chunk.css",
-    "main.js": "/KrenarMuzaqi.github.io/budget-app/static/js/main.0b207d52.chunk.js",
-    "main.js.map": "/KrenarMuzaqi.github.io/budget-app/static/js/main.0b207d52.chunk.js.map",
-    "runtime-main.js": "/KrenarMuzaqi.github.io/budget-app/static/js/runtime-main.708a63c9.js",
-    "runtime-main.js.map": "/KrenarMuzaqi.github.io/budget-app/static/js/runtime-main.708a63c9.js.map",
-    "static/js/2.3d631628.chunk.js": "/KrenarMuzaqi.github.io/budget-app/static/js/2.3d631628.chunk.js",
-    "static/js/2.3d631628.chunk.js.map": "/KrenarMuzaqi.github.io/budget-app/static/js/2.3d631628.chunk.js.map",
-    "index.html": "/KrenarMuzaqi.github.io/budget-app/index.html",
-    "precache-manifest.944c9e3a50d1dc5fbb5ed7ee4479e486.js": "/KrenarMuzaqi.github.io/budget-app/precache-manifest.944c9e3a50d1dc5fbb5ed7ee4479e486.js",
-    "service-worker.js": "/KrenarMuzaqi.github.io/budget-app/service-worker.js",
-    "static/css/main.fddbdccc.chunk.css.map": "/KrenarMuzaqi.github.io/budget-app/static/css/main.fddbdccc.chunk.css.map",
-    "static/js/2.3d631628.chunk.js.LICENSE.txt": "/KrenarMuzaqi.github.io/budget-app/static/js/2.3d631628.chunk.js.LICENSE.txt"
+    "main.css": "/KrenarMuzaqi/budget-app/static/css/main.fddbdccc.chunk.css",
+    "main.js": "/KrenarMuzaqi/budget-app/static/js/main.0b207d52.chunk.js",
+    "main.js.map": "/KrenarMuzaqi/budget-app/static/js/main.0b207d52.chunk.js.map",
+    "runtime-main.js": "/KrenarMuzaqi/budget-app/static/js/runtime-main.864f4421.js",
+    "runtime-main.js.map": "/KrenarMuzaqi/budget-app/static/js/runtime-main.864f4421.js.map",
+    "static/js/2.3d631628.chunk.js": "/KrenarMuzaqi/budget-app/static/js/2.3d631628.chunk.js",
+    "static/js/2.3d631628.chunk.js.map": "/KrenarMuzaqi/budget-app/static/js/2.3d631628.chunk.js.map",
+    "index.html": "/KrenarMuzaqi/budget-app/index.html",
+    "precache-manifest.4143a4eba7466a98f41d0648882b267e.js": "/KrenarMuzaqi/budget-app/precache-manifest.4143a4eba7466a98f41d0648882b267e.js",
+    "service-worker.js": "/KrenarMuzaqi/budget-app/service-worker.js",
+    "static/css/main.fddbdccc.chunk.css.map": "/KrenarMuzaqi/budget-app/static/css/main.fddbdccc.chunk.css.map",
+    "static/js/2.3d631628.chunk.js.LICENSE.txt": "/KrenarMuzaqi/budget-app/static/js/2.3d631628.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.708a63c9.js",
+    "static/js/runtime-main.864f4421.js",
     "static/js/2.3d631628.chunk.js",
     "static/css/main.fddbdccc.chunk.css",
     "static/js/main.0b207d52.chunk.js"
