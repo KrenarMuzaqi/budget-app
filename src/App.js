@@ -2,27 +2,27 @@ import React from "react";
 
 import Header from "./components/Header";
 import Balance from "./components/Balance";
-import AddTransition from "./components/AddTransition";
-import IncomeList from "./components/incomeList";
-import ExpenseList from "./components/expenseList";
+import IncomeExpenses from "./components/IncomeExpenses";
+import TransactionList from "./components/TransactionList";
+import AddTransaction from "./components/AddTransaction";
 
-import { GlobalContextProvider } from "./context/GlobalState";
+import { GlobalProvider } from "./context/GlobalState";
 
 import "./app.css";
 
 const App = () => {
   return (
-    <GlobalContextProvider>
+    <GlobalProvider>
       <div className="container">
         <div className="app-wrapper">
           <Header />
           <Balance />
-          <AddTransition />
-          <IncomeList />
-          <ExpenseList />
+          <IncomeExpenses />
+          <TransactionList />
+          <AddTransaction />
         </div>
       </div>
-    </GlobalContextProvider>
+    </GlobalProvider>
   );
 };
 export default App;
