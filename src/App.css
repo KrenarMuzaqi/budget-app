@@ -116,22 +116,30 @@ body {
   color: #c0392b;
 }
 
-.container .app-wrapper label {
+.container .app-wrapper .add-transaction {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.container .app-wrapper .add-transaction label {
   display: inline-block;
   margin: 10px 0;
 }
 
-.container .app-wrapper input[type="text"],
-.container .app-wrapper input[type="number"] {
+.container .app-wrapper .add-transaction input[type="text"],
+.container .app-wrapper .add-transaction input[type="number"] {
   border: 1px solid #dedede;
   border-radius: 0.2rem;
   display: block;
   font-size: 1.6rem;
   padding: 1rem;
-  width: 95%;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-.container .app-wrapper .btn {
+.container .app-wrapper .add-transaction .btn {
   cursor: pointer;
   background-color: #008bbe;
   color: #fff;
@@ -143,12 +151,12 @@ body {
   width: 100%;
 }
 
-.container .app-wrapper .btn:hover {
+.container .app-wrapper .add-transaction .btn:hover {
   opacity: 0.8;
 }
 
-.container .app-wrapper .btn:focus,
-.container .app-wrapper .delete-btn:focus {
+.container .app-wrapper .add-transaction .btn:focus,
+.container .app-wrapper .add-transaction .delete-btn:focus {
   outline: 0;
 }
 
